@@ -1,5 +1,9 @@
 PyWO - Python Window Organizer
 ===========
+
+[Note my code see th original repo](https://code.google.com/p/pywo/)
+
+
 Introduction
 ------------
 PyWO allows you to easily organize windows on the desktop using keyboard shortcuts. It's inspired by Quicktile, Compiz plugins: Grid, Put, and Maximumize.
